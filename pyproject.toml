@@ -1,0 +1,9 @@
+[project]
+name = "tiergate"
+version = "0.1.0"
+description = "Complexity-tiered task routing with causal-level confidence gating"
+requires-python = ">=3.9"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
